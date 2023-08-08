@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidharth Rout.
-- 🌱 I’m a working professional specialising in Front-End Web Development using React JS tech stack. 
+- 🌱 I’m a working professional specialized in Front-End Web Development using React JS tech stack. 
 - 📫 Please mail me at sidharthrout42@gmail.com for any queries or collaborations.
 
 <!---
